@@ -1,0 +1,102 @@
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Debug\MyGomoku.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Debug\GomokuClass.dll
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Debug\GomokuClass.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Form1.resources
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Debug\MyGomoku.pdb
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.config
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\obj\Debug\MyGomoku.pdb
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Form1.resources
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Properties.Resources.resources
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\bin\Debug\MyGomoku.pdb
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\bin\Debug\GomokuClass.dll
+C:\Users\dell\Desktop\MyGomoku\MyGomoku\bin\Debug\GomokuClass.pdb
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.config
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.pdb
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\MyGomoku.pdb
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\GomokuClass.dll
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\GomokuClass.pdb
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Form1.resources
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Properties.Resources.resources
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.manifest
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\bin\Debug\MyGomoku.application
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe.manifest
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\MyGomoku\obj\Debug\MyGomoku.application
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.config
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.manifest
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.application
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.pdb
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\GomokuClass.dll
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\GomokuClass.pdb
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.ResolveComReference.cache
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Form1.resources
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Properties.Resources.resources
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe.manifest
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.application
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe
+C:\Users\lenovo\Desktop\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.pdb
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.config
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.manifest
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.application
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.pdb
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\GomokuClass.dll
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\GomokuClass.pdb
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\Interop.WMPLib.dll
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\AxInterop.WMPLib.dll
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csprojResolveAssemblyReference.cache
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\Interop.WMPLib.dll
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\AxInterop.WMPLib.dll
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.ResolveComReference.cache
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Form1.resources
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Properties.Resources.resources
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.GenerateResource.Cache
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe.manifest
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.application
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe
+G:\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.pdb
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csprojResolveAssemblyReference.cache
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\Interop.WMPLib.dll
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\AxInterop.WMPLib.dll
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.ResolveComReference.cache
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Form1.resources
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.Properties.Resources.resources
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.csproj.GenerateResource.Cache
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.pdb
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.config
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe.manifest
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.application
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.exe
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\MyGomoku.pdb
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\GomokuClass.dll
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\GomokuClass.pdb
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\Interop.WMPLib.dll
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\bin\Debug\AxInterop.WMPLib.dll
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.exe.manifest
+D:\upan\姜彦凯五子棋\MyGomoku\MyGomoku\obj\Debug\MyGomoku.application

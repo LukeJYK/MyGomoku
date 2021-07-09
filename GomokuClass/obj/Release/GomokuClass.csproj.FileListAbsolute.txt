@@ -1,0 +1,5 @@
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\bin\Release\GomokuClass.dll
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\bin\Release\GomokuClass.pdb
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\obj\Release\GomokuClass.csprojResolveAssemblyReference.cache
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\obj\Release\GomokuClass.dll
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\obj\Release\GomokuClass.pdb

@@ -1,0 +1,8 @@
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Release\MyGomoku.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Release\MyGomoku.exe
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\bin\Release\MyGomoku.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Release\MyGomoku.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Release\MyGomoku.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Release\MyGomoku.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Release\MyGomoku.exe
+c:\users\andrew\documents\visual studio 2013\Projects\MyGomoku\MyGomoku\obj\Release\MyGomoku.pdb

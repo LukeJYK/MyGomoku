@@ -1,0 +1,5 @@
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\Komogu\bin\Debug\Komogu.dll
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\Komogu\bin\Debug\Komogu.pdb
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\Komogu\obj\Debug\Komogu.dll
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\Komogu\obj\Debug\Komogu.pdb
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\Komogu\obj\Debug\Komogu.csprojResolveAssemblyReference.cache

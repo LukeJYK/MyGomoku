@@ -1,0 +1,25 @@
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\bin\Debug\GomokuClass.dll
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\bin\Debug\GomokuClass.pdb
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\obj\Debug\GomokuClass.dll
+c:\Users\Andrew\documents\visual studio 2013\Projects\MyGomoku\GomokuClass\obj\Debug\GomokuClass.pdb
+C:\Users\dell\Desktop\MyGomoku\GomokuClass\obj\Debug\GomokuClass.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MyGomoku\GomokuClass\obj\Debug\GomokuClass.dll
+C:\Users\dell\Desktop\MyGomoku\GomokuClass\obj\Debug\GomokuClass.pdb
+C:\Users\dell\Desktop\MyGomoku\GomokuClass\bin\Debug\GomokuClass.dll
+C:\Users\dell\Desktop\MyGomoku\GomokuClass\bin\Debug\GomokuClass.pdb
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\bin\Debug\GomokuClass.dll
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\bin\Debug\GomokuClass.pdb
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\obj\Debug\GomokuClass.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\obj\Debug\GomokuClass.dll
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\obj\Debug\GomokuClass.pdb
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\obj\Debug\MyGomoku.Form2.resources
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\obj\Debug\GomokuClass.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\MyGomoku\MyGomoku\GomokuClass\obj\Debug\MyGomoku.Form3.resources
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\bin\Debug\GomokuClass.dll
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\bin\Debug\GomokuClass.pdb
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\obj\Debug\GomokuClass.csprojResolveAssemblyReference.cache
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\obj\Debug\MyGomoku.Form2.resources
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\obj\Debug\MyGomoku.Form3.resources
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\obj\Debug\GomokuClass.csproj.GenerateResource.Cache
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\obj\Debug\GomokuClass.dll
+D:\upan\姜彦凯五子棋\MyGomoku\GomokuClass\obj\Debug\GomokuClass.pdb
